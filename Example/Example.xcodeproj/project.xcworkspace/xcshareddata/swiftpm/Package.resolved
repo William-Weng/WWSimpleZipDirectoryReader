@@ -1,0 +1,15 @@
+{
+  "originHash" : "d5cf74b6a206231315b56f6f0996cceed7be99a9ef321873d231a324da59f4e6",
+  "pins" : [
+    {
+      "identity" : "wwsimplezipdirectoryreader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWSimpleZipDirectoryReader",
+      "state" : {
+        "revision" : "4cb4be5f87808349b461725cecd8657583c00965",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
